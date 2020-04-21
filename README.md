@@ -5,7 +5,9 @@ Galaxy Classification using CNN
 Hi! As a demanding public outreach for introducing astrophysics, galaxy zoo is a starter pack. Classifying galaxies based on images is a basic astronomer's visual skill. 
 
 By the Hubble tuning fork, galaxies could be classified as below.
+
 ![Hubble Fork](hubbletuning.jpeg "Hubble Tuning Fork")
+
 Image from http://astro.physics.uiowa.edu/ITU/labs/foundational-labs/classifying-galaxies/part-1-hubbles-tuning-fork.html
 
 As now, the classifier could only returns elliptical, irregular, and spiral type (on develoment for broader datasets).
