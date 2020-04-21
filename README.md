@@ -12,6 +12,8 @@ As now, the classifier could only returns elliptical, irregular, and spiral type
 
 # Example
 As expected (and sometimes not), it will returned the galaxy's type. 
+
+
 ![Result](1587502022241.jpg "Result")
 
 The CNN was derived from notebook in deeplearning.ai's Tensorflow course, available at https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%208%20-%20Lesson%202%20-%20Notebook%20(RockPaperScissors).ipynb 
